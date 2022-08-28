@@ -1,0 +1,1 @@
+https://github.com/designrevision/shards-dashboard-react
