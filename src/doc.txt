@@ -10,4 +10,23 @@ https://github.com/devias-io/material-kit-react
 
 
 
+https://reactnative.dev/docs/getting-started
+
+
+
+
+
+https://reactnative.dev/docs/environment-setup
+
+
+
+
+https://snack.expo.dev/?platform=web
+
 https://github.com/expo/snack
+
+
+
+
+
+https://docs.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android
